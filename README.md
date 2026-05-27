@@ -272,34 +272,34 @@ Gavel preserves:
 ## Screenshots
 
 ### Moderation continuity record — with risk summary
-<img src="https://raw.githubusercontent.com/soumabhi/GAVEL/main/assets/view-record.png" width="320" />
+![View Record](https://raw.githubusercontent.com/soumabhi/GAVEL/main/assets/view-record.png)
 
 ### Mod shield menu — all Gavel actions in one place
-<img src="https://raw.githubusercontent.com/soumabhi/GAVEL/main/assets/mod-menu.png" width="320" />
+![Mod Menu](https://raw.githubusercontent.com/soumabhi/GAVEL/main/assets/mod-menu.png)
 
 ### Add incident — log a moderation event
-<img src="https://raw.githubusercontent.com/soumabhi/GAVEL/main/assets/add-incident.png" width="320" />
+![Add Incident](https://raw.githubusercontent.com/soumabhi/GAVEL/main/assets/add-incident.png)
 
 ### Resolve incident — clear strikes, unban, preserve history
-<img src="https://raw.githubusercontent.com/soumabhi/GAVEL/main/assets/resolve-incident.png" width="320" />
+![Resolve Incident](https://raw.githubusercontent.com/soumabhi/GAVEL/main/assets/resolve-incident.png)
 
 ### Claim investigation — assign ownership, prevent duplicate work
-<img src="https://raw.githubusercontent.com/soumabhi/GAVEL/main/assets/claim-investigation.png" width="320" />
+![Claim Investigation](https://raw.githubusercontent.com/soumabhi/GAVEL/main/assets/claim-investigation.png)
 
 ### Review appeal — forgive or uphold with full history visible
-<img src="https://raw.githubusercontent.com/soumabhi/GAVEL/main/assets/review-appeal.png" width="320" />
+![Review Appeal](https://raw.githubusercontent.com/soumabhi/GAVEL/main/assets/review-appeal.png)
 
 ### Submit appeal — structured form for users
-<img src="https://raw.githubusercontent.com/soumabhi/GAVEL/main/assets/submit-appeal.png" width="320" />
+![Submit Appeal](https://raw.githubusercontent.com/soumabhi/GAVEL/main/assets/submit-appeal.png)
 
 ### Appeals queue — all pending appeals in one view
-<img src="https://raw.githubusercontent.com/soumabhi/GAVEL/main/assets/appeals-queue.png" width="320" />
+![Appeals Queue](https://raw.githubusercontent.com/soumabhi/GAVEL/main/assets/appeals-queue.png)
 
 ### Subreddit menu — subreddit-level Gavel actions
-<img src="https://raw.githubusercontent.com/soumabhi/GAVEL/main/assets/subreddit-menu.png" width="320" />
+![Subreddit Menu](https://raw.githubusercontent.com/soumabhi/GAVEL/main/assets/subreddit-menu.png)
 
 ### My investigations — manage your active claims
-<img src="https://raw.githubusercontent.com/soumabhi/GAVEL/main/assets/my-investigations.png" width="320" />
+![My Investigations](https://raw.githubusercontent.com/soumabhi/GAVEL/main/assets/my-investigations.png)
 
 ---
 
