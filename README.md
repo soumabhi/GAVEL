@@ -269,14 +269,6 @@ Gavel preserves:
 
 ---
 
-## Screenshots
-
-[View all screenshots on GitHub](https://github.com/soumabhi/GAVEL/tree/main/assets)
-
-Includes: moderation continuity record, risk summary, mod shield menu, add incident, resolve incident, claim investigation, review appeal, submit appeal, appeals queue, subreddit menu, my investigations.
-
----
-
 ## The Philosophy
 
 Most moderation systems optimize for **content removal**.
