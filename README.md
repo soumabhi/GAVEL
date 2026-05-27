@@ -272,34 +272,34 @@ Gavel preserves:
 ## Screenshots
 
 ### Moderation continuity record — with risk summary
-![View Record](./assets/view-record.png)
+![View Record](https://raw.githubusercontent.com/soumabhi/GAVEL/main/assets/view-record.png)
 
 ### Mod shield menu — all Gavel actions in one place
-![Mod Menu](./assets/mod-menu.png)
+![Mod Menu](https://raw.githubusercontent.com/soumabhi/GAVEL/main/assets/mod-menu.png)
 
 ### Add incident — log a moderation event
-![Add Incident](./assets/add-incident.png)
+![Add Incident](https://raw.githubusercontent.com/soumabhi/GAVEL/main/assets/add-incident.png)
 
 ### Resolve incident — clear strikes, unban, preserve history
-![Resolve Incident](./assets/resolve-incident.png)
+![Resolve Incident](https://raw.githubusercontent.com/soumabhi/GAVEL/main/assets/resolve-incident.png)
 
 ### Claim investigation — assign ownership, prevent duplicate work
-![Claim Investigation](./assets/claim-investigation.png)
+![Claim Investigation](https://raw.githubusercontent.com/soumabhi/GAVEL/main/assets/claim-investigation.png)
 
 ### Review appeal — forgive or uphold with full history visible
-![Review Appeal](./assets/review-appeal.png)
+![Review Appeal](https://raw.githubusercontent.com/soumabhi/GAVEL/main/assets/review-appeal.png)
 
 ### Submit appeal — structured form for users
-![Submit Appeal](./assets/submit-appeal.png)
+![Submit Appeal](https://raw.githubusercontent.com/soumabhi/GAVEL/main/assets/submit-appeal.png)
 
 ### Appeals queue — all pending appeals in one view
-![Appeals Queue](./assets/appeals-queue.png)
+![Appeals Queue](https://raw.githubusercontent.com/soumabhi/GAVEL/main/assets/appeals-queue.png)
 
 ### Subreddit menu — subreddit-level Gavel actions
-![Subreddit Menu](./assets/subreddit-menu.png)
+![Subreddit Menu](https://raw.githubusercontent.com/soumabhi/GAVEL/main/assets/subreddit-menu.png)
 
 ### My investigations — manage your active claims
-![My Investigations](./assets/my-investigations.png)
+![My Investigations](https://raw.githubusercontent.com/soumabhi/GAVEL/main/assets/my-investigations.png)
 
 ---
 
