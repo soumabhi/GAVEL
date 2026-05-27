@@ -74,7 +74,7 @@ export const contextViewForm = Devvit.createForm(
 
 export const manualStrikeForm = Devvit.createForm(
   (data: Record<string, string>) => ({
-    title: `Log Moderation Event${data['username'] ? ` — u/${data['username']}` : ''}`,
+    title: `Add Incident${data['username'] ? ` — u/${data['username']}` : ''}`,
     fields: [
       {
         type: 'string' as const,
@@ -204,7 +204,7 @@ export const manualStrikeForm = Devvit.createForm(
 
 export const clearStrikeForm = Devvit.createForm(
   (data: Record<string, string>) => ({
-    title: `Clear Event${data['username'] ? ` — u/${data['username']}` : ''}`,
+    title: `Resolve Incident${data['username'] ? ` — u/${data['username']}` : ''}`,
     fields: [
       {
         type: 'string' as const,
@@ -499,7 +499,7 @@ export const claimReviewForm = Devvit.createForm(
     }
     fields.push({ type: 'paragraph' as const, name: 'note', label: 'Investigation note (optional)', required: false });
     return {
-      title: `Claim Review — u/${data['username'] ?? '?'}`,
+      title: `Claim Investigation — u/${data['username'] ?? '?'}`,
       fields,
       acceptLabel: 'Claim',
       cancelLabel: 'Cancel',
@@ -545,7 +545,7 @@ export const myReviewsForm = Devvit.createForm(
       fields.push({ type: 'boolean' as const, name: `keep__${u}`, label: `u/${u}${info}`, defaultValue: true });
     }
     return {
-      title: `🔍 My Active Investigations (${users.length})`,
+      title: `My Investigations (${users.length})`,
       description: 'Toggle OFF to release an investigation. Submit to save changes.',
       fields,
       acceptLabel: 'Save',
