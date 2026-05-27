@@ -63,7 +63,6 @@ export const contextViewForm = Devvit.createForm(
       description: 'Moderation continuity record — Gavel',
       fields,
       acceptLabel: 'Close',
-      cancelLabel: '',
     };
   },
   async (_event: FormOnSubmitEvent, _context: Context) => {
