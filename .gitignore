@@ -2,3 +2,9 @@ node_modules/
 dist/
 *.js.map
 .devvit/
+AGENTS.md
+CRITIC.md
+DEVVITPUBLICUI.md
+LIMITATIONS.md
+PROGRESS.md
+.env
