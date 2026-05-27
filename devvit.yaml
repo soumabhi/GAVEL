@@ -1,0 +1,14 @@
+name: gavel-mod
+version: 1.0.0
+slug: gavel
+description: >-
+  Gavel gives mod teams shared institutional memory — track violations, coordinate
+  investigations, manage structured appeals, and view full behavioral timelines
+  directly inside Reddit. No spreadsheets, no Discord, no context switching.
+permissions:
+  - reddit.read
+  - reddit.write
+  - reddit.mod.ban
+  - reddit.mod.read
+  - reddit.mod.modmail
+  - reddit.mod.usernotes

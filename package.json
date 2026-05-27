@@ -1,0 +1,23 @@
+{
+  "name": "gavel-mod",
+  "version": "0.0.0",
+  "description": "Consistent moderation enforcement — strike tracking, progressive discipline, structured appeals",
+  "main": "dist/main.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "dev": "npx devvit playtest",
+    "upload": "npx devvit upload",
+    "publish": "npx devvit publish",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@devvit/public-api": "0.13.0"
+  },
+  "devDependencies": {
+    "devvit": "0.13.0",
+    "typescript": "^5.3.0"
+  },
+  "private": true,
+  "license": "BSD-3-Clause"
+}
