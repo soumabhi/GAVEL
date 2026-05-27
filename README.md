@@ -271,35 +271,9 @@ Gavel preserves:
 
 ## Screenshots
 
-### Moderation continuity record — with risk summary
-![View Record](https://raw.githubusercontent.com/soumabhi/GAVEL/main/assets/view-record.png)
+[View all screenshots on GitHub](https://github.com/soumabhi/GAVEL/tree/main/assets)
 
-### Mod shield menu — all Gavel actions in one place
-![Mod Menu](https://raw.githubusercontent.com/soumabhi/GAVEL/main/assets/mod-menu.png)
-
-### Add incident — log a moderation event
-![Add Incident](https://raw.githubusercontent.com/soumabhi/GAVEL/main/assets/add-incident.png)
-
-### Resolve incident — clear strikes, unban, preserve history
-![Resolve Incident](https://raw.githubusercontent.com/soumabhi/GAVEL/main/assets/resolve-incident.png)
-
-### Claim investigation — assign ownership, prevent duplicate work
-![Claim Investigation](https://raw.githubusercontent.com/soumabhi/GAVEL/main/assets/claim-investigation.png)
-
-### Review appeal — forgive or uphold with full history visible
-![Review Appeal](https://raw.githubusercontent.com/soumabhi/GAVEL/main/assets/review-appeal.png)
-
-### Submit appeal — structured form for users
-![Submit Appeal](https://raw.githubusercontent.com/soumabhi/GAVEL/main/assets/submit-appeal.png)
-
-### Appeals queue — all pending appeals in one view
-![Appeals Queue](https://raw.githubusercontent.com/soumabhi/GAVEL/main/assets/appeals-queue.png)
-
-### Subreddit menu — subreddit-level Gavel actions
-![Subreddit Menu](https://raw.githubusercontent.com/soumabhi/GAVEL/main/assets/subreddit-menu.png)
-
-### My investigations — manage your active claims
-![My Investigations](https://raw.githubusercontent.com/soumabhi/GAVEL/main/assets/my-investigations.png)
+Includes: moderation continuity record, risk summary, mod shield menu, add incident, resolve incident, claim investigation, review appeal, submit appeal, appeals queue, subreddit menu, my investigations.
 
 ---
 
