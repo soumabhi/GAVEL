@@ -117,6 +117,24 @@ Install → Observe → Verify → Enforce
 
 Moderators stay in control. Gavel earns trust first.
 
+### What Counts as a Strike
+
+**Strikes** are the events that count toward the escalation threshold (warn → temp ban → perm ban):
+
+- A moderator **removes a post or comment** via Reddit's native mod tools — logged automatically
+- A moderator **manually adds an incident** via "Gavel: Add incident" — always counts as a strike
+
+**Not strikes** — these are recorded in the timeline for context but do not count toward thresholds:
+
+- Removals by **AutoModerator, bots, or Reddit's anti-evil team** — logged as signals only
+- **Bans or unbans** applied directly via Reddit mod tools (outside Gavel) — synced to the record as notes
+- **Mutes and unmutes** — synced as timeline notes
+- **Spam-marked content** — logged as a signal in the timeline
+- **Appeal submissions and decisions** — recorded as events, not strikes
+- **Mod notes** — informational only
+
+This separation means bot-driven removals never accidentally escalate a user, and mods retain full control over what actually counts.
+
 ---
 
 ## How to Use Gavel
